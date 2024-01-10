@@ -1,0 +1,7 @@
+19. Dinner Guests: Working with one of the programs from Exercises 14 through 18, print a message indicating the number of people you are inviting to dinner.
+
+Q14. 3 Guests
+Q15. -1 and 1 added . Again total 3 friends
+Q16. invited 3 new friends = Now total is 6
+Q17. Removed 4 Guests
+      Now total remaining are 2 guests.

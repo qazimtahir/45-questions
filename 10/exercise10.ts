@@ -2,12 +2,12 @@
 
 //SOLUTION
 
-console.log("// "+"Muhammad Tahir Iqbal")
-console.log("// "+ Date())
-console.log("// Adding two nembers in TS")
-let num1: number = 20
-let num2: number = 30
-let addition: number = num1+num2
-console.log("number 1 = " + num1)
-console.log("number 2 = " + num2)
-console.log(num1+" + "+num2+ " = " + addition)
+console.log("// " + "Muhammad Tahir Iqbal");
+console.log("// " + Date());
+console.log("// Adding two numbers in TS");
+let num1: number = 20;
+let num2: number = 30;
+let addition: number = num1 + num2;
+console.log("number 1 = " + num1);
+console.log("number 2 = " + num2);
+console.log(num1 + " + " + num2 + " = " + addition);

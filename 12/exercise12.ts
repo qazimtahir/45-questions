@@ -2,11 +2,11 @@
 
 // SOLUTION
 
-let names = ["Tahir","Tariq", "Zafar", "Akram", "Sarwar", "Iqbal"]
-let message: string = "Assalam o Alaikum dear friend, "
-console.log(message + names[0])
-console.log(message + names[1])
-console.log(message + names[2])
-console.log(message + names[3])
-console.log(message + names[4])
-console.log(message + names[5])
+let names = ["Tahir", "Tariq", "Zafar", "Akram", "Sarwar", "Iqbal"];
+let message: string = "Assalam o Alaikum dear friend, ";
+console.log(message + names[0]);
+console.log(message + names[1]);
+console.log(message + names[2]);
+console.log(message + names[3]);
+console.log(message + names[4]);
+console.log(message + names[5]);

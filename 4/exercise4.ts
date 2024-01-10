@@ -5,7 +5,7 @@ Albert Einstein once said, “A person who never made a mistake never tried anyt
 `);
 // SOLUTIONS
 console.log(`Solution:
-Printing using concatination
+Printing using concatenations
 `);
 
 console.log(
@@ -17,7 +17,7 @@ console.log(
 
 console.log(`
 Solution:
-Printing using string litterals
+Printing using string literals
 `);
 console.log(`William Shakespeare once said in Hamlet, "There is nothing either good or bad, but thinking makes it so."
 `);
