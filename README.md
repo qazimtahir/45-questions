@@ -1,9 +1,10 @@
 
 ## 45 Questions by PIAIC:
+https://www.piaic.org/
 
 These are 45 questions which we have to submit before the end of 1st quarter of GAI.
 
-I have reated separate folders for each question.
+I have created separate folders for each question.
 
 ## Author:
 Muhammad Tahir Iqbal. 
@@ -22,7 +23,11 @@ Inquirer
 
 ## Quarter 1 of PIAIC
 
-We completed our TypeScript in this quarter. The class time was 4 hours. Only on Sundays. UMT Main Campus
+We completed our TypeScript in this quarter. The class time was 4 hours. Only on Sundays. UMT Main Campus. 13 Lectures total.
+
+## Instructor:
+
+Sir Jahanzaib Tayyab
 
 
 ## 🚀 About Me
@@ -35,3 +40,4 @@ I'm a full-stack developer...
 
 ## Date:
 
+November 2023 to January 2024
